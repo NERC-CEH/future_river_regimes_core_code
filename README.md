@@ -12,7 +12,7 @@ This repository contains a collection of scripts for calculating and visualizing
 ├── running_metrics.py           # Script for running metrics across all project stations
 ├── analysis_functions.py        # Core functions for summarising the metric results
 ├── summary_stats.py             # Script for running the analysis functions and calculating summary stats
-└── ToE.R 						 # Script for calculating and plotting time-of-emergence of climate signals
+└── ToE.R                        # Script for calculating and plotting time-of-emergence of climate signals
 ```
 
 ---
