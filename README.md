@@ -62,8 +62,3 @@ All functions in this repository assume that your input dataframe contains the f
 
 ---
 
-## 📄 License
-
-
----
-
