@@ -1,6 +1,6 @@
 # River Flow Metrics – Future River Regimes in England
 
-This repository contains a collection of scripts for calculating and visualizing river flow metrics developed for the **Future River Regimes in England** report (delivered as part of the English River of the Future project). The tools are designed to process daily river flow datasets and generate a suite of hydrological indicators across multiple stations.
+This repository contains a collection of scripts for calculating river flow metrics developed for the **Future River Regimes in England** report (delivered as part of the English River of the Future project). The tools are designed to process daily river flow datasets and generate a suite of hydrological indicators across multiple stations.
 
 ---
 
