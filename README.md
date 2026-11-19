@@ -43,7 +43,7 @@ An R script that calculates time-of-emergence of climate signals in key metrics 
 
 ## Data Requirements
 
-All functions in this repository assume that your input dataframe contains the following:
+All functions in the python scripts in this repository assume that your input dataframe contains the following:
 
 ### **1. Daily Flow Columns**
 
@@ -58,7 +58,7 @@ All functions in this repository assume that your input dataframe contains the f
   * `month`
   * `day`
 * These are required because the original workflow was designed for **UKCP18-derived datasets**, which use **360-day years**, meaning standard datetime parsing would fail.
-* **Good news:** All functions also work with standard Gregorian dates **as long as these three columns exist**.
+* **Good news:** All python functions also work with standard Gregorian dates **as long as these three columns exist**.
 
 ---
 
